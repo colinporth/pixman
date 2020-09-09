@@ -8,7 +8,6 @@ Makefile.in
 *.la
 *.a
 *.o
-*.Tpo
 *~
 aclocal.m4
 autom4te.cache
